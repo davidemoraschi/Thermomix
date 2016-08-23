@@ -1,0 +1,10 @@
+D:\My Dropbox\SOURCES\Thermomix\Thermomix\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My Dropbox\SOURCES\Thermomix\Thermomix\obj\x86\Debug\Thermomix.Form1.resources
+D:\My Dropbox\SOURCES\Thermomix\Thermomix\obj\x86\Debug\Thermomix.Properties.Resources.resources
+D:\My Dropbox\SOURCES\Thermomix\Thermomix\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\My Dropbox\SOURCES\Thermomix\Thermomix\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\My Dropbox\SOURCES\Thermomix\Thermomix\bin\Debug\Thermomix.exe
+D:\My Dropbox\SOURCES\Thermomix\Thermomix\bin\Debug\Thermomix.pdb
+D:\My Dropbox\SOURCES\Thermomix\Thermomix\bin\Debug\InhecoMTCdll.dll
+D:\My Dropbox\SOURCES\Thermomix\Thermomix\obj\x86\Debug\Thermomix.exe
+D:\My Dropbox\SOURCES\Thermomix\Thermomix\obj\x86\Debug\Thermomix.pdb
